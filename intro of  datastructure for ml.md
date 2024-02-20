@@ -1,22 +1,35 @@
-#datastructure for ml
+# Datastructure for ml
 
 Intro: datastructure/dataframe is important for ml in programe language, 
 a well-formed data can be used in ml such as predictive/category analytics. A ml train/test concept is easily to understand but preparing the data in the telled structure is hard and tedious.
 #datastructure in the ml cycle
 
-##1 data ingestion
+# ML Life-Cycle
 
-##2 data pre-processing
+## 1 data ingestion
 
-##3 feature engineering
+## 2 data pre-processing
 
-##4 training testing dataset
+## 3 feature engineering
 
-##5 model proformance mgt
+## 4 training testing dataset
 
-#datatype
+## 5 model proformance mgt
+
+# Datatype
 
 ## end type of prediction/category
-# data ingestion
+
+# Data ingestion
+
 ## file
+
 ## sql
+
+# Data pre-processing
+
+# Feature engineering
+
+# Training testing dataset
+
+# Model proformance mgt
