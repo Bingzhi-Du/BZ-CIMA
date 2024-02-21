@@ -33,3 +33,12 @@ a well-formed data can be used in ml such as predictive/category analytics. A ml
 # Training testing dataset
 
 # Model proformance mgt
+
+# End type of prediction/category
+
+# Aolgorithms for input and output
+
+# Automation of the data
+## for
+## if
+## def
